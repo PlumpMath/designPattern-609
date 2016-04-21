@@ -1,5 +1,3 @@
-import java.io.IOException;
-import java.util.List;
 
 /**
  * 日志文件操作接口
